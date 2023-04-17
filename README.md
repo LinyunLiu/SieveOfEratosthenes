@@ -24,3 +24,5 @@ Again, update the corresponding indices in the array.
 * Repeat the process of 5 until the multiple of the next prime number is out of array index bounds (in other words, until there are no 
 composite index number left).
 * Iterate though the array, if the value is marked True, then we print out the index of that value.
+
+[iamge.png](https://github.com/LinyunLiu/SieveOfEratosthenes/blob/main/image.png?raw=true)
