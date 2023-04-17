@@ -1,8 +1,5 @@
 /*
 Name: Linyun Liu
-Student Number: 613705
-CMPT 360 Spring 2021
-Lab Assignment #4
 Title: Finding Primes Numbers Using Sieve of Eratosthenes Algorithm
 */
 #include <iostream>
