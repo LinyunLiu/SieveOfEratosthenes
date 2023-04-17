@@ -41,4 +41,11 @@ for example, 12 is the multiple of both 2 and 3. But this does not affect the al
 823 827 829 839 853 857 859 863 877 881 883 887 907 911 919 929 937 941 947 953 967 971 977 983 991 997
 ```
 
+# Result
+> ![image2](https://github.com/LinyunLiu/SieveOfEratosthenes/blob/main/image2.png?raw=true)
 
+# Conclusion
+* Both programs used the same algorithm and code structure, both program runs the same algorithm 10000 times 
+on the same machine with the same time complexity. However, the program in C++ runs significantly faster than the program in PHP.
+* In this example, the C++ compiler produces the codes that are about 8 times faster than the codes produced by PHP interpreter. 
+The timer in both program surrounds only the compute_primes() function call, the print statements are excluded as it may takes a lot of time.
